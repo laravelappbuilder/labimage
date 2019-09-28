@@ -1,0 +1,19 @@
+{
+    "name": "laravelappbuilder/labimage",
+    "description": "This package helps user to save image with modified dimension and thumbnail with defined dimension",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Laravel App Builder",
+            "email": "laravelappbuilder@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+      "psr-4":{
+        "LABImage\\":"src/"
+      }
+    },
+    "require": {}
+}
